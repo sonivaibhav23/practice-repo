@@ -1,4 +1,4 @@
-package vaibhav.practice.repo.datastructure.queue;
+package vaibhav.practice.repo.datastructure.geeksforgeeks.queue;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

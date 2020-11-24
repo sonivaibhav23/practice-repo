@@ -1,4 +1,4 @@
-package vaibhav.practice.repo.datastructure.graph;
+package vaibhav.practice.repo.datastructure.geeksforgeeks.graph;
 
 import java.util.LinkedList;
 import java.util.ListIterator;

@@ -43,6 +43,12 @@ package vaibhav.practice.repo.sorting.quick;
  *</code>
  */
 
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 /**
  *
  * Pass 1:

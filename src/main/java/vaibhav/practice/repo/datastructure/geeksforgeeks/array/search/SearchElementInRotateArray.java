@@ -1,4 +1,4 @@
-package vaibhav.practice.repo.datastructure.array.search;
+package vaibhav.practice.repo.datastructure.geeksforgeeks.array.search;
 
 public class SearchElementInRotateArray {
 

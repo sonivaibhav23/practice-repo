@@ -1,4 +1,4 @@
-package vaibhav.practice.repo.datastructure.linkedlist;
+package vaibhav.practice.repo.datastructure.geeksforgeeks.linkedlist;
 
 import java.util.LinkedList;
 

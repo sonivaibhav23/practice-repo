@@ -1,4 +1,4 @@
-package vaibhav.practice.repo.datastructure.array.kthminimum;
+package vaibhav.practice.repo.datastructure.geeksforgeeks.array.kthminimum;
 
 /**
  * <p>

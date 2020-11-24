@@ -1,4 +1,4 @@
-package vaibhav.practice.repo.datastructure.stack;
+package vaibhav.practice.repo.datastructure.geeksforgeeks.stack;
 
 import java.util.Iterator;
 import java.util.Stack;

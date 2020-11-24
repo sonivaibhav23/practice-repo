@@ -1,4 +1,4 @@
-package vaibhav.practice.repo.datastructure.array.rotation;
+package vaibhav.practice.repo.datastructure.geeksforgeeks.array.rotation;
 
 public class ArrayRotationUsingSameArray {
 
