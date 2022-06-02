@@ -6,11 +6,11 @@ import org.springframework.context.annotation.ScopedProxyMode;
 import org.springframework.stereotype.Component;
 
 @Component
-@Scope(value = ConfigurableBeanFactory.SCOPE_PROTOTYPE,
-        proxyMode = ScopedProxyMode.TARGET_CLASS)
+@Scope(value = ConfigurableBeanFactory.SCOPE_PROTOTYPE, proxyMode = ScopedProxyMode.TARGET_CLASS)
 public class JdbcTemplate {
 
 	public JdbcTemplate() {
 		// I am a JdbcTemplate Bean
 	}
+
 }
